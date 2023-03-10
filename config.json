@@ -1,0 +1,17 @@
+{
+  "serial": "114181804132",
+  "qos": 0,
+  "topics": [
+    "/0/yieldtotal",
+    "/0/current",
+    "/0/voltage",
+    "/0/temperature",
+    "/0/power",
+    "/0/efficiency",
+    "/0/yieldday",
+    "/0/frequency",
+    "/status/reachable",
+    "/status/producing",
+    "/status/last_update"
+  ]
+}
