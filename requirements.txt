@@ -1,2 +1,5 @@
 amqtt
 influxdb
+django
+djangorestframework
+django-cors-headers
